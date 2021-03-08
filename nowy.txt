@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 lama
-=======
 lama kot
->>>>>>> feature_2
+okej
+
